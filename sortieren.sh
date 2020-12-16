@@ -21,7 +21,7 @@ mv ~/Downloads/Sonstiges/Programme ~/Downloads
 mkdir Musik
 mv ~/Downloads/Sonstiges/Musik ~/Downloads
 
-mkdir Dukumente
+mkdir Dokumente
 mv ~/Downloads/Sonstiges/Dokumente ~/Downloads
 
 mkdir Bilder
