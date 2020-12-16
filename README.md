@@ -11,7 +11,7 @@ Linux
 
 2. Gebe den folgenden Befehl ein: "sudo apt install git"
 
-3. Wenn git installiert ist musst du diesen Befehl eingeben:"git clone "
+3. Wenn git installiert ist musst du diesen Befehl eingeben:"git clone https://github.com/KolpixTV/Download-Datei-Sortierer.git"
 
 4. Nachdem du die Datei geklont hast musst du die Datei mit folgenden Befehl in dein Download Ordner einfügen: "sudo mv Download-Datei-Sortierer/sortieren.sh ~/[Downloadorder]" 
 
