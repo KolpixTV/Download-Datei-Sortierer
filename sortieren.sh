@@ -26,9 +26,6 @@ mv ~/Downloads/Sonstiges/Dokumente ~/Downloads
 
 mkdir Bilder
 mv ~/Downloads/Sonstiges/Bilder ~/Downloads
-
-mkdir jar
-mv ~/Downloads/Sonstiges/jar ~/Downloads
  
 mkdir Installationsdateien
 mv ~/Downloads/Sonstiges/Installationsdateien ~/Downloads
@@ -61,6 +58,8 @@ mv ~/Downloads/Sonstiges/*.js ~/Downloads/Entwicklung
 mv ~/Downloads/Sonstiges/*.js.* ~/Downloads/Entwicklung 
 mv ~/Downloads/Sonstiges/*.json ~/Downloads/Entwicklung
 mv ~/Downloads/Sonstiges/*.json.* ~/Downloads/Entwicklung
+mv ~/Downloads/Sonstiges/*.jar ~/Downloads/Entwicklung
+mv ~/Downloads/Sonstiges/*.jar.* ~/Downloads/Entwicklung
 
 mv ~/Downloads/Sonstiges/*.sh ~/Downloads/Programme
 mv ~/Downloads/Sonstiges/*.sh.* ~/Downloads/Programme
@@ -177,14 +176,6 @@ mv ~/Downloads/Sonstiges/*.webp.2 ~/Downloads/Bilder
 mv ~/Downloads/Sonstiges/*.webp.3 ~/Downloads/Bilder
 mv ~/Downloads/Sonstiges/*.webp.4 ~/Downloads/Bilder
 mv ~/Downloads/Sonstiges/*.webp.5 ~/Downloads/Bilder
-
-mv ~/Downloads/Sonstiges/*.jar ~/Downloads/jar
-mv ~/Downloads/Sonstiges/*.jar.* ~/Downloads/jar
-mv ~/Downloads/Sonstiges/*.jar.1 ~/Downloads/jar
-mv ~/Downloads/Sonstiges/*.jar.2 ~/Downloads/jar
-mv ~/Downloads/Sonstiges/*.jar.3 ~/Downloads/jar
-mv ~/Downloads/Sonstiges/*.jar.4 ~/Downloads/jar
-mv ~/Downloads/Sonstiges/*.jar.5 ~/Downloads/jar
 
 mv ~/Downloads/Sonstiges/*.deb ~/Downloads/Installationsdateien
 mv ~/Downloads/Sonstiges/*.deb.* ~/Downloads/Installationsdateien
