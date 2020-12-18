@@ -1,4 +1,4 @@
-echo "$(tput setaf 1)"Please type in your language!
+echo "$(tput setaf 1)"Please type in your language
 echo "$(tput setaf r) $(tput setaf 2)German, $(tput setaf 4)Japanese $(tput setaf 6)"
 read answer
 # if [ "$answer" = "German" ]
