@@ -3,7 +3,7 @@ Dieses Programm erstellt Kategorien (Ordner) in dem Download Ordner und sortiert
 
 # Unterstützung
 Linux
-(Wurde auf einen Raspberry Pi 3 Model B getestet)
+(Wurde auf einen Raspberry Pi 3 Model B getestet und auf einen Raspberry pi 400)
 
 # Installation
 
