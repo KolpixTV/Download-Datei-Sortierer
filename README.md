@@ -1,6 +1,12 @@
 # Beschreibung
 Dieses Programm erstellt Kategorien (Ordner) in dem Download Ordner und sortiert anschließlich die Dateien von dem Download Ordner in die richtige Kategorie.
 
+# Bilder
+
+![Deutsch](https://i.imgur.com/xNbH4Ju.png)
+
+![Japanisch](https://i.imgur.com/CMCRxif.png)
+
 # Unterstützung
 Linux
 (Wurde auf einen Raspberry Pi 3 Model B getestet und auf einen Raspberry pi 400)
