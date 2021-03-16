@@ -30,6 +30,7 @@ Lösung: "sudo chmod 777 sortieren.sh"
 # Kontakt
 
 Email: "kolpix3.0@gmail.com"
+
 Discord: "KolpixTV#1391"
 
 
