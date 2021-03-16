@@ -17,7 +17,9 @@ Linux
 
 4. Nachdem du die Datei geklont hast musst du die Datei mit folgenden Befehl in dein Download Ordner einfügen: "sudo mv Download-Datei-Sortierer/sortieren.sh ~/Downloads " 
 
-5. Gehe nun in dein Downloadsordner [cd ~/Downloads] und führe dann die Datei mit dem Befehl "./sortieren.sh" aus.
+5. Gehe nun in dein Downloadsordner und führe den Befehl aus: "sudo chmod 777 sortieren.sh"
+
+5. Führe nun die Datei mit dem Befehl "./sortieren.sh" aus.
 
 # Lösung für Probleme
 
@@ -27,6 +29,7 @@ Lösung: "sudo chmod 777 sortieren.sh"
 
 # Kontakt
 
-Email: kolpix3.0@gmail.com
+Email: "kolpix3.0@gmail.com"
+Discord: "KolpixTV#1391"
 
 
