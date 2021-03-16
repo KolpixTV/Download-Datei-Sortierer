@@ -27,6 +27,10 @@ Problem: "bash: ./sortieren.sh: Keine Berechtigung"
 
 Lösung: "sudo chmod 777 sortieren.sh"
 
+# Updates
+
+- Sprache hinzugefügt: Japanisch
+
 # Kontakt
 
 Email: "kolpix3.0@gmail.com"
